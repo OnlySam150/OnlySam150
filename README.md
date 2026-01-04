@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hii mate! Im OnlySam150
 
+- 🔭 I’m currently working on some private projects like an own website and some discord bots
+- 🌱 I’m currently learning node.js/ts, sql and sveltekit5
 <!--
 **OnlySam150/OnlySam150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
